@@ -42,7 +42,7 @@ $ node_modules/.bin/sequelize db:seed:all
 
 ## How to use:
 
-Upon visiting the homepage at `pantry-weasel.herokuapp.com` you will be presented with a simple search bar.
+Upon visiting the homepage at `my-pantry-weasel.herokuapp.com` you will be presented with a simple search bar.
 
 ![Landing Page](/screenshots/PW-landing-page.png)
 
