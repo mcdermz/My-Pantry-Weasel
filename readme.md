@@ -35,7 +35,7 @@ $ node_modules/.bin/sequelize db:migrate
 $ node_modules/.bin/sequelize db:seed:all
 ```
   - ###### Current Bug:
-      You will need to manually insert data for the pantries table. From inside your PostgreSQL console run `INSERT INTO pantries (id) VALUES (1);` for as many users as you wish to have, replacing the
+      You will need to manually insert data for the pantries table. From inside your PostgreSQL console run `INSERT INTO pantries (id) VALUES (1);` for as many users as you wish to have.
 
 
 * Start your dev server with `npm run dev` and open up the app by visiting `https://localhost:5432/`, replacing `5432` with whichever port you wish to set up your local server on.
